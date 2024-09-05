@@ -1,0 +1,33 @@
+.Signal-body {
+    z-index: 2;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 30px;
+    height: 100px;
+    background-color: #000;
+    border-radius: 10px;
+    padding: 9px;
+  }
+  
+  .Red-circle, .Amber-circle, .Green-circle {
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    margin: 2px 0;
+    padding-bottom:4px;
+    background-color: #ccc;
+  }
+  
+  .Red-circle.active {
+    background-color: red;
+  }
+  
+  .Amber-circle.active {
+    background-color: orange;
+  }
+  
+  .Green-circle.active {
+    background-color: green;
+  }
+  
