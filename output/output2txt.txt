@@ -1,0 +1,1 @@
+This functional prototype enhances night time intersection safety. When traffic is low and signals blink yellow, cameras detect incoming vehicles and automatically switch the other three signals to blinking red. This alerts drivers on other roads to approaching traffic, reducing the risk of accidents during low-visibility hours.
